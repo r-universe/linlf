@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "altmeta"]
+	path = altmeta
+	url = https://github.com/cran/altmeta
+	shallow = true
+	registered = true
+[submodule "fragility"]
+	path = fragility
+	url = https://github.com/cran/fragility
+	shallow = true
+	registered = true
+[submodule "pcnetmeta"]
+	path = pcnetmeta
+	url = https://github.com/cran/pcnetmeta
+	shallow = true
+	registered = true
